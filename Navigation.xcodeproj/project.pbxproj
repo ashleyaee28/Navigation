@@ -11,6 +11,7 @@
 		BDFD24002A607F04004A5BE7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDFD23FF2A607F04004A5BE7 /* ContentView.swift */; };
 		BDFD24022A607F08004A5BE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDFD24012A607F08004A5BE7 /* Assets.xcassets */; };
 		BDFD24052A607F08004A5BE7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDFD24042A607F08004A5BE7 /* Preview Assets.xcassets */; };
+		BDFD240C2A6081EA004A5BE7 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDFD240B2A6081EA004A5BE7 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		BDFD23FF2A607F04004A5BE7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BDFD24012A607F08004A5BE7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDFD24042A607F08004A5BE7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BDFD240B2A6081EA004A5BE7 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				BDFD23FD2A607F04004A5BE7 /* NavigationApp.swift */,
 				BDFD23FF2A607F04004A5BE7 /* ContentView.swift */,
+				BDFD240B2A6081EA004A5BE7 /* SecondView.swift */,
 				BDFD24012A607F08004A5BE7 /* Assets.xcassets */,
 				BDFD24032A607F08004A5BE7 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDFD240C2A6081EA004A5BE7 /* SecondView.swift in Sources */,
 				BDFD24002A607F04004A5BE7 /* ContentView.swift in Sources */,
 				BDFD23FE2A607F04004A5BE7 /* NavigationApp.swift in Sources */,
 			);
